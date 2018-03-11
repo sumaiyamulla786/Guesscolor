@@ -1,0 +1,23 @@
+body{
+    background: #202120;
+  }
+  h1{
+    color: white;
+  }
+  #message{
+    color: #41ced3;
+  }
+  
+  .square{
+    background: purple;
+    padding-bottom: 30%;
+  margin: 1.66%;
+    float: left;
+    width: 30%;
+  }
+  .container
+  {
+    max-width: 600px;
+       margin: 0 auto;
+    
+  }
